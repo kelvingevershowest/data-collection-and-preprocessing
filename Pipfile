@@ -12,6 +12,7 @@ seaborn = "*"
 scikit-learn = "==0.24.2"
 imblearn = "*"
 scikit-plot = "*"
+ipywidgets = "*"
 
 [dev-packages]
 ipykernel = "*"
