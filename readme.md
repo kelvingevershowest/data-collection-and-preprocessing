@@ -1,5 +1,5 @@
 # AI Diabetes Calculator
-## Explanation
+## Summarized
 ### This is an AI Diabetes Calculator where I visualize every step I had to take to get from unprocessed data to the best model for the job.
 ## Score
 ### I managed to get a final score of 83% using a Logistic Regression Model. 
